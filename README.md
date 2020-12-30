@@ -1,7 +1,9 @@
-### Hi there 👋
+# neverbeenthisweeb
 
-I am currently doing a self-learning towards PHP (Laravel) and JS (Vue).
+## Contact Methods
 
---\
-PS. My daily work is mostly about writing, testing and deploying Go and/or Python to Kubernetes clusters.
+Find me [here](https://neverbeenthisweeb.github.io/)
 
+---
+
+Be well, Engineers.
