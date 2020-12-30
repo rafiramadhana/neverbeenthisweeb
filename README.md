@@ -2,7 +2,7 @@
 
 ## Contact Methods
 
-Find me [here](https://neverbeenthisweeb.github.io/)
+Find me [here](https://neverbeenthisweeb.github.io/).
 
 ---
 
